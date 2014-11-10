@@ -1,4 +1,4 @@
-ConnectFour
-===========
+Connect4
+========
 
-Le jeu "Connect Four", codé en seulement une semaine avec un partenaire.
+TP1 Prog
