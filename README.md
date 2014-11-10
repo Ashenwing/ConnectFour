@@ -1,4 +1,4 @@
 Connect4
 ========
 
-TP1 Prog
+Premier projet dans notre cinquième session, donc cinquième cours de Programmation, deuxième cours de Java.
